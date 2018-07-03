@@ -1,0 +1,1309 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"S",
+				"ShortyUrls"
+			],
+			[
+				"H",
+				"HttpResponseRedirect"
+			],
+			[
+				"cre",
+				"Create"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"C",
+				"ClickEvent"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"sh",
+				"shortyurls"
+			],
+			[
+				"sho",
+				"shortcode"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"v",
+				"validate_dot_com"
+			],
+			[
+				"va",
+				"validat_url"
+			],
+			[
+				"value",
+				"value1_invalid"
+			],
+			[
+				"shor",
+				"shortener"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"url",
+				"url_validator"
+			],
+			[
+				"U",
+				"URLValidator"
+			],
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"k",
+				"kwargs"
+			],
+			[
+				"w",
+				"wildcard_redirect"
+			],
+			[
+				"d",
+				"DEFAULT_REDIRECT_URL"
+			],
+			[
+				"s",
+				"shortcode"
+			],
+			[
+				"kirr",
+				"kirr_redirect_view"
+			],
+			[
+				"De",
+				"DEFAULT_REDIRECT_URL"
+			],
+			[
+				"mess",
+				"message"
+			],
+			[
+				"userForm",
+				"userFormArea"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"user",
+				"userForm"
+			],
+			[
+				"mes",
+				"message"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"con",
+				"connections"
+			],
+			[
+				"j",
+				"JavaScript"
+			],
+			[
+				"l",
+				"language\tAttr"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"COL",
+				"color"
+			],
+			[
+				"to",
+				"todo_id"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"A",
+				"Arial"
+			],
+			[
+				"f",
+				"False"
+			],
+			[
+				"score",
+				"score_pen"
+			],
+			[
+				"sc",
+				"score"
+			],
+			[
+				"sco",
+				"score_pen"
+			],
+			[
+				"whi",
+				"white"
+			],
+			[
+				"ran",
+				"randint"
+			],
+			[
+				"ene",
+				"enemies"
+			],
+			[
+				"enem",
+				"enemies"
+			],
+			[
+				"en",
+				"enemy"
+			],
+			[
+				"bul",
+				"bullet"
+			],
+			[
+				"bulle",
+				"bullet"
+			],
+			[
+				"x",
+				"xcor"
+			],
+			[
+				"bull",
+				"bullet"
+			],
+			[
+				"bullet",
+				"bulletstate"
+			],
+			[
+				"bu",
+				"bulletstate"
+			],
+			[
+				"fir",
+				"fire_bullet"
+			],
+			[
+				"pl",
+				"player"
+			],
+			[
+				"e",
+				"enemyspeed"
+			],
+			[
+				"ENE",
+				"enemyspeed"
+			],
+			[
+				"set",
+				"setposition"
+			],
+			[
+				"pla",
+				"player"
+			],
+			[
+				"p",
+				"player"
+			],
+			[
+				"pe",
+				"penup"
+			],
+			[
+				"b",
+				"border_pen"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"pag",
+				"paginate_by"
+			],
+			[
+				"on",
+				"on_delete"
+			],
+			[
+				"For",
+				"ForeignKey"
+			],
+			[
+				"num",
+				"num_visits"
+			],
+			[
+				"text-d",
+				"text-decoration-color"
+			],
+			[
+				"book",
+				"book_list"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"F",
+				"ForeignKey"
+			],
+			[
+				"nu",
+				"num_genres"
+			],
+			[
+				"num_",
+				"num_genres"
+			],
+			[
+				"Book",
+				"BookInstance"
+			],
+			[
+				"Model",
+				"ModelAdmin"
+			],
+			[
+				"he",
+				"help_text"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"ws_",
+				"ws_disconnect"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"n",
+				"now"
+			],
+			[
+				"q",
+				"question_id"
+			],
+			[
+				"ques",
+				"question_id"
+			],
+			[
+				"selec",
+				"selected_choice"
+			],
+			[
+				"qu",
+				"question"
+			],
+			[
+				"quest",
+				"question_id"
+			],
+			[
+				"dr",
+				"dropdown-menu"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"for",
+				"form-control"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"tem",
+				"template_name"
+			],
+			[
+				"Deta",
+				"DetailView"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"g",
+				"glyphicon"
+			],
+			[
+				"gly",
+				"glyphicon-music"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"se",
+				"selected_song"
+			],
+			[
+				"D",
+				"DoesNotExist"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"all",
+				"all_albums"
+			],
+			[
+				"al",
+				"album_id"
+			],
+			[
+				"mail",
+				"mailTo"
+			],
+			[
+				"r",
+				"rows\tAttr"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_array"
+			],
+			[
+				"mysql_q",
+				"mysql_query"
+			],
+			[
+				"de",
+				"decision"
+			],
+			[
+				"t",
+				"time"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"mysql_",
+				"mysql_connect"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"tab",
+				"table_password"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/shortener/models.py",
+			"settings":
+			{
+				"buffer_size": 1458,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/shortener/views.py",
+			"settings":
+			{
+				"buffer_size": 2069,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/user/Try-Django-1.10-master/src/shortener/templates/shortener/home.html",
+			"settings":
+			{
+				"buffer_size": 919,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/kirr/urls.py",
+			"settings":
+			{
+				"buffer_size": 288,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/kirr/settings.py",
+			"settings":
+			{
+				"buffer_size": 3522,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/shortener/templates/shortener/success.html",
+			"settings":
+			{
+				"buffer_size": 433,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/shortener/templates/shortener/already-exists.html",
+			"settings":
+			{
+				"buffer_size": 528,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/shortener/forms.py",
+			"settings":
+			{
+				"buffer_size": 687,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "{% extends \"base.html\" %}\n\n{% block content %}\n<div class=\"container\">\n\t<div class=\"row\">\t\n       <div class=\"text-center col-sm-12\">\n\t\t<h1 style=\"color: yellow;\">{{ title }}</h1>\n\t\t<div class=\"col-sm-4 col-sm-offset-4\">\n\t\t<form method=\"POST\" action=\".\">\n\t\t\t{% csrf_token %}\n\t\t\t{{ form.as_p }}\n\t\t\t<input class=\"btn btn-primary\" type=\"submit\" vale=\"Shorten\">\n\t\t</form>\n\t     </div>\n\t   </div>\n   </div>\n</div>\n{% endblock content %}",
+			"file": "src/shortener/templates/shortener/home.html",
+			"file_size": 448,
+			"file_write_time": 131739601023995465,
+			"settings":
+			{
+				"buffer_size": 431,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE HTML>\n<html>\n\n<head>\n    <!-- Latest compiled and minified CSS -->\n    <title>Kirr.co | {% block title %} Shorten that url{% endblock title %}</title>\n    <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\" integrity=\"sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u\" crossorigin=\"anonymous\">\n    <link href=\"http://getbootstrap.com/examples/cover/cover.css\" rel=\"stylesheet\">\n    {% block styles %}\n    <style>\n    body {\n      background-color: #226268;\n      {% if bg_image %}background-image: url({{ bg_image }});{% endif %}\n    }\n\n    .btn-link {\n      color: #50dfec;\n      text-shadow: none;\n    }\n    .btn-link:hover {\n      color: #000000;\n    }\n    </style>\n    {% endblock styles %}\n</head>\n\n<body>\n\n    <div class=\"site-wrapper\">\n\n      <div class=\"site-wrapper-inner\">\n\n        <div class=\"cover-container\">\n           \n            \n\n          <div class=\"inner cover\">\n             {% block content %}\n\n            {% endblock content %}\n            \n          </div>\n\n\n        </div>\n\n      </div>\n\n    </div>\n\n\n\n</body>\n</html>",
+			"file": "src/templates/base.html",
+			"file_size": 1179,
+			"file_write_time": 131739605159849964,
+			"settings":
+			{
+				"buffer_size": 1124,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/user/Try-Django-1.10-master/src/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 1052,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/analytics/views.py",
+			"settings":
+			{
+				"buffer_size": 63,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/shortener/validators.py",
+			"settings":
+			{
+				"buffer_size": 680,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/user/URLshortener",
+		"/C/Users/user/URLshortener/src",
+		"/C/Users/user/URLshortener/src/analytics",
+		"/C/Users/user/URLshortener/src/kirr",
+		"/C/Users/user/URLshortener/src/shortener",
+		"/C/Users/user/URLshortener/src/shortener/migrations",
+		"/C/Users/user/URLshortener/src/shortener/templates",
+		"/C/Users/user/URLshortener/src/shortener/templates/shortener",
+		"/C/Users/user/URLshortener/src/templates"
+	],
+	"file_history":
+	[
+		"/C/Users/user/Try-Django-1.10-master/src/shortener/views.py",
+		"/C/Users/user/Try-Django-1.10-master/src/shortener/forms.py",
+		"/C/Users/user/URLshortener/src/templates/base.html",
+		"/C/Users/user/Try-Django-1.10-master/src/shortener/templates/shortener/home.html",
+		"/C/Users/user/Try-Django-1.10-master/src/shortener/templates/shortener/success.html",
+		"/C/Users/user/Try-Django-1.10-master/src/shortener/templates/shortener/already-exists.html",
+		"/C/Users/user/URLshortener/src/shortener/templates/shortener/home.html",
+		"/C/Users/user/Try-Django-1.10-master/src/kirr/settings.py",
+		"/C/Users/user/URLshortener/src/analytics/models.py",
+		"/C/Users/user/URLshortener/src/templates/shortener-ext/base.html",
+		"/C/Users/user/URLshortener/src/analytics/admin.py",
+		"/C/Users/user/Try-Django-1.10-master/src/analytics/models.py",
+		"/C/Users/user/Try-Django-1.10-master/src/analytics/views.py",
+		"/C/Users/user/Try-Django-1.10-master/src/analytics/admin.py",
+		"/C/Users/user/Try-Django-1.10-master/src/kirr/urls.py",
+		"/C/Users/user/URLshortener/src/shortener/templates/shortener/alreeady.html",
+		"/C/Users/user/URLshortener/src/kirr/urls.py",
+		"/C/Users/user/Try-Django-1.10-master/src/shortener/validators.py",
+		"/C/Users/user/URLshortener/src/kirr/hostsconf/urls.py",
+		"/C/Users/user/URLshortener/src/kirr/settings.py",
+		"/C/Users/user/URLshortener/src/kirr/hostsconf/views.py",
+		"/C/Users/user/URLshortener/src/kirr/hosts.py",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/user/Try-Django-1.10-master/src/kirr/hostsconf/urls.py",
+		"/C/Users/user/URLshortener/src/shortener/management/commands/refreshcodes.py",
+		"/C/Users/user/URLshortener/src/shortener/utils.py",
+		"/C/Users/user/URLshortener/src/kirr/hostsconf/__init__.py",
+		"/C/Users/user/URLshortener/src/kirr/hostsconf/__int__.py",
+		"/C/Users/user/trydjango110/src/shortener/management/commands/refreshcodes.py",
+		"/C/Users/user/URLshortener/src/shortener/management/commands/__int__.py",
+		"/C/Users/user/URLshortener/src/shortener/management/__int__.py",
+		"/C/Users/user/URLshortener/src/db.sqlite3",
+		"/C/Users/user/URLshortener/src/shortener/admin.py",
+		"/C/Users/user/trydjango110/src/kirr/hostsconf/urls.py",
+		"/C/Users/user/trydjango110/src/shortener/models.py",
+		"/C/Users/user/Try-Django-1.10-master/src/shortener/models.py",
+		"/C/Users/user/URL-Shortener-master/analytics/models.py",
+		"/C/Users/user/URL-Shortener-master/Short/urls.py",
+		"/C/Users/user/trydjango110/src/kirr/hostsconf/views.py",
+		"/C/Users/user/trydjango110/src/kirr/hostsconf/__init__.py",
+		"/C/Users/user/trydjango110/src/kirr/settings.py",
+		"/C/Users/user/trydjango110/src/shortener/management/__init__.py",
+		"/C/Users/user/Try-Django-1.10-master/src/shortener/management/commands/refreshcodes.py",
+		"/C/Users/user/Try-Django-1.10-master/src/shortener/management/commands/__init__.py",
+		"/C/Users/user/trydjango110/src/shortener/management/commands/__init__.PY",
+		"/C/Users/user/trydjango110/src/shortener/management/refreshcodes.py",
+		"/C/Users/user/game.py",
+		"/E/6TH SEM/Placement Record 2017-2018.html",
+		"/E/Space-Invaders/game.py",
+		"/C/Users/user/subtitle-downloader.py",
+		"/E/Chat-App/log.html",
+		"/C/Users/user/hangman.py",
+		"/C/Users/user/node-js-getting-started/index.js",
+		"/C/Users/user/url/base58.js",
+		"/C/Users/user/node-chat-master/server/server.js",
+		"/C/Users/user/url-shortener/base58.js",
+		"/C/Users/user/iochat/index.html",
+		"/C/Users/user/Desktop/json.html",
+		"/C/Users/user/apps/todolist/todos/templates/partials/header.html",
+		"/C/Users/user/biding/bid/emg/settings-example.py",
+		"/C/Users/user/biding/bid/emg/settings.py",
+		"/C/Users/user/apps/todolist/todos/static/css/style.css",
+		"/C/Users/user/apps/todolist/todos/templates/partials/footer.html",
+		"/C/Users/user/apps/todolist/todos/models.py",
+		"/C/Users/user/apps/todolist/todolist/urls.py",
+		"/C/Users/user/apps/todolist/todolist/settings.py",
+		"/C/Users/user/apps/todolist/todos/admin.py",
+		"/C/Users/user/apps/todolist/todos/views.py",
+		"/C/Users/user/apps/todolist/todos/templates/details.html",
+		"/C/Users/user/apps/todolist/todos/templates/index.html",
+		"/C/Users/user/apps/todolist/todos/templates/add.html",
+		"/C/Users/user/apps/todolist/todos/urls.py",
+		"/C/Users/user/Downloads/lhander-master/Lhander10/index.html",
+		"/C/Users/user/Downloads/Part 7 Sample Code/mysite/blog/templates/blog/blog.html",
+		"/C/Users/user/YourBlog/YourBlog/urls.py",
+		"/C/Users/user/YourBlog/blog/views.py",
+		"/C/Users/user/YourBlog/blog/models.py",
+		"/C/Users/user/YourBlog/YourBlog/settings.py",
+		"/C/Users/user/Blogger/mysite/settings.py",
+		"/C/Users/user/Blogger/blog/urls.py",
+		"/C/Users/user/YourBlog/blog/urls.py",
+		"/C/Users/user/YourBlog/blog/static/css/blog.css",
+		"/C/Users/user/YourBlog/blog/forms.py",
+		"/C/Users/user/Blogger/blog/apps.py",
+		"/C/Users/user/Blogger/blog/tests.py",
+		"/C/Users/user/Blogger/blog/models.py",
+		"/C/Users/user/Blog Master/blog/views.py",
+		"/C/Users/user/Blogger/blog/views.py",
+		"/C/Users/user/Blogger/mysite/urls.py",
+		"/C/Users/user/Blog Master/blog/templates/blog/post_new.html",
+		"/C/Users/user/Blogger/blog/static/css/blog.css",
+		"/C/Users/user/Blog Master/blog/templates/blog/post_edit.html",
+		"/C/Users/user/Blog Master/blog/urls.py",
+		"/C/Users/user/Blogger/blog/templates/blog/base.html",
+		"/C/Users/user/Blog Master/blog/static/css/blog.css",
+		"/C/Users/user/Blog Master/blog/templates/blog/base.html",
+		"/C/Users/user/Blog Master/blog/forms.py",
+		"/C/Users/user/Blog Master/blog/admin.py",
+		"/C/Users/user/Blog Master/blog/templates/blog/post_detail.html",
+		"/C/Users/user/Blog Master/blog/templates/blog/post_list.html",
+		"/C/Users/user/Blog Master/blog/models.py",
+		"/C/Users/user/Downloads/django-url-shortener-master/shortener/urls.py",
+		"/C/Users/user/snake.py",
+		"/C/Users/user/Blog Master/mysite/urls.py",
+		"/C/Users/user/snk.py",
+		"/C/Users/user/Mr.Snake-master/snake.py",
+		"/C/xampp/htdocs/Chat-App/log.html",
+		"/C/Python27/snake.py",
+		"/C/Users/user/Downloads/Mr.Snake-master/snake.py",
+		"/C/Users/user/Downloads/Chat-App-master/log.html",
+		"/C/xampp/htdocs/Chat-App/index.php",
+		"/C/Users/user/django-url-shortener-master/django_url_shortener/urls.py",
+		"/C/Users/user/locallibrary/catalog/templates/base_generic.html",
+		"/C/Users/user/locallibrary/templates/registration/password_reset_form.html",
+		"/C/Users/user/locallibrary/locallibrary/settings.py",
+		"/C/Users/user/locallibrary/catalog/views.py",
+		"/C/Users/user/locallibrary/catalog/urls.py",
+		"/C/Users/user/Downloads/django-url-shortener-master/django_url_shortener/urls.py",
+		"/C/Users/user/Downloads/django-url-shortener-master/shortener/models.py",
+		"/C/Users/user/django-url-shortener-master/shortener/urls.py",
+		"/C/Users/user/locallibrary/locallibrary/urls.py",
+		"/C/Users/user/locallibrary/catalog/templates/catalog/bookinstance_list_borrowed_user.html",
+		"/C/Users/user/locallibrary/catalog/models.py",
+		"/C/Users/user/locallibrary/catalog/admin.py",
+		"/C/Users/user/Downloads/library-management-system-project/library-management-system-project.CPP",
+		"/C/Users/user/Downloads/Bird-Game-master/main.cpp",
+		"/C/Users/user/library/locallibrary/urls.py",
+		"/C/Users/user/library/catalog/urls.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/shortener/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								680,
+								680
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 293.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/shortener/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2069,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1004,
+								1004
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/user/Try-Django-1.10-master/src/shortener/templates/shortener/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 919,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								166
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/kirr/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								288,
+								288
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/kirr/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1316,
+								1316
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 703.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/shortener/templates/shortener/success.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								247,
+								247
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/shortener/templates/shortener/already-exists.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 528,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/shortener/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 687,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								79,
+								79
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/shortener/templates/shortener/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 431,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								179,
+								179
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								615,
+								615
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/Users/user/Try-Django-1.10-master/src/templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1052,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1008,
+								1008
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 666.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "src/analytics/views.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 63,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "src/shortener/validators.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 680,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								514,
+								514
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "URLshortener.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
